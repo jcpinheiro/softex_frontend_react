@@ -6,8 +6,8 @@ b = 40
 
 console.log(a, b)
 
-a = 300
-b = 400
+ a = 300
+ b = 400
 
 console.log(a, b)
 

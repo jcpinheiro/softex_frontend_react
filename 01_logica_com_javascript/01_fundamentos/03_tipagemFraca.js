@@ -1,6 +1,6 @@
-let qualquer = 'Legal'
-console.log(qualquer)
 
+let qualquer = 'Legal' // prefira aspas simples ao invés de aspas duplas
+console.log(qualquer)
 console.log(typeof qualquer)
 
 qualquer = 3.1516
