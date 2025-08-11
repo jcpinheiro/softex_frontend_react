@@ -12,7 +12,8 @@ console.log(valores)
 console.log(valores.length)
 
 
-valores.push(15.5)
+valores.push(15.5) // adiciona um novo elemento ao final do vetor
+
 console.log(valores)
 
 console.log('removendo o último elemento do vetor')

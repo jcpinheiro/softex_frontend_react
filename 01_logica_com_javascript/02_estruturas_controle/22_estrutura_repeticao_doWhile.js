@@ -3,7 +3,7 @@ let i = 0;
 let soma = 0;
 
 do {
-  soma += numeros[i];
+  soma = soma + numeros[i];
   i++;
 } while (soma <= 20 && i < numeros.length);
 

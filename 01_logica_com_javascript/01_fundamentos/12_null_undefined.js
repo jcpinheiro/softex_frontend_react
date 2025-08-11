@@ -3,6 +3,7 @@ console.log(valor) // erro
 
 valor = null // ausência de valor
 console.log(valor)
+valor = 7
 // console.log(valor.toString() ) // Erro!
 
 const produto = {}
