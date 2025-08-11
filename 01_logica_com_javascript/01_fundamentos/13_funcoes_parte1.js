@@ -8,6 +8,7 @@ imprimirSoma(2)
 imprimirSoma(2, 10, 4, 5, 6, 7, 8)
 imprimirSoma()
 
+
 // Funcao com retorno
 function soma(a, b = 1) {
     return a + b

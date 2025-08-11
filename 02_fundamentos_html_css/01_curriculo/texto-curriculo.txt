@@ -1,0 +1,29 @@
+Fulano da Silva
+28 anos, Solteiro
+
+(99)9999-9999
+
+fulano@email.com.br
+
+Objetivos
+Programação/Análise de Sistemas
+
+Resumo
+Desenvolvedor com 6 anos de experiência, focados principalmente na linguagem PHP Entusiasta de práticas de Web Design responsivo
+
+Meu principal interesse é participar de equipes de desenvolvimento de sistemas web
+
+Conhecimentos
+PHP, MySQL HTML, CSS3 e JavaScript
+JQuery e Bootstrap 4
+JPA/Hibernate, Spring Data JPA, Spring MVC
+NodeJS com acesso a banco de dados
+Formação Acadêmica
+Faculdade de Sistemas de Informação - IFMA
+Idiomas Inglês Técnico Avançado Espanhol básico
+Experiências Anteriores
+Programador PHP - SoftHouse XYZ - a partir de out/2013 participo de migração de um ERP Desktop em Delphi para uma versão Web utilizando PHP e MySQL.
+
+Empresa XYZ de Web Design nov/20151 - ago/2016 Desenvolvedor Front-end - Desenvolvimento de um portal de notícia com uso das linguagens HTML5, CSS3 e JavaScript e AngularJS.
+
+Manutenção Corretiva e Desenvolvimento de diversos sistemas para os clientes da empresa entre as principais linguagens trabalhadas estão, PHP, Java e as principais tecnologias foram JSP, PHP - nov/2011 - ago/2013
