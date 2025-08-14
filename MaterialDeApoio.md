@@ -12,16 +12,23 @@ Este espaço reúne **links para materiais e vídeos de apoio** destinados à fo
 
 ### 📌 Materiais de Apoio
 
-### 1. Comandos básicos no Prompt de Comandos do Windows (CMD)
+#### 1. Comandos básicos no Prompt de Comandos do Windows (CMD)
 🎥 **Vídeo:** [Comandos básicos no CMD](https://www.youtube.com/watch?v=y9Ko4R0iTMA)  
 > Aprenda comandos essenciais para trabalhar no terminal do Windows, úteis para o dia a dia de um desenvolvedor.
 
 ---
 
-### 2. GIT: Minicurso para Você Sair do Zero!
+#### 2. GIT: Minicurso para Você Sair do Zero!
 🎥 **Vídeo:** [GIT - Minicurso (45 min)](https://www.youtube.com/watch?v=ts-H3W1uLMM)  
 > Introdução prática ao Git, ideal para iniciantes que desejam compreender versionamento de código.
 
 ---
 
 ✏ **Dica:** Assista aos vídeos na ordem apresentada para criar uma boa base antes de avançar para conteúdos mais complexos.
+
+### Mapa Mental com roteiros, artigos e recursos para desenvolvedores
+
+- [ ] **RoadMap:** [FrontEnd Development](https://roadmap.sh/frontend?r=frontend-beginner)
+- [ ] **RoadMap:** [Git & GitHub](https://roadmap.sh/git-github)
+- [ ] **RoadMap:** [JavaScript](https://roadmap.sh/javascript)
+

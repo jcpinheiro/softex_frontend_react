@@ -1,9 +1,14 @@
 
-# Projeto Bolsa Futuro Digital - SOFTEX
+<p align="center">
+  <img src="imagens/logo_bfd.png" alt="Logo do Curso">
+</p>
 
-**Curso:** Front End - React  
-**Turma:** Maranhão - Monte Castelo  
 
+
+# 🚀 Curso de Front-End com React  
+Bem-vindo(a) ao repositório  da **Turma de Front-End **  Maranhão - Monte Castelo  
+
+- Explore este espaço e descubra materiais de apoio, atividades e projetos que vão enriquecer sua aprendizagem e ampliar seus horizontes nas nossas aulas.
 ---
 
 ## 📘 Módulo 01 – Atividades
