@@ -3,8 +3,6 @@
   <img src="imagens/logo_bfd.png" alt="Logo do Curso">
 </p>
 
-
-
 # 🚀 Curso de Front-End com React  
 Bem-vindo(a) ao repositório  da **Turma de Front-End **  Maranhão - Monte Castelo  
 
@@ -16,7 +14,7 @@ Bem-vindo(a) ao repositório  da **Turma de Front-End **  Maranhão - Monte Cast
 #### ✅ Atividade 01 - Lógica de Programação com JavaScript
 
 - **Link:** [`Atividade 01 - Lógica de Programação com JavaScript.pdf`](https://drive.google.com/file/d/1m2IObpZGrqHWirmaqMJ32sKsP2FhjI8L/view?usp=sharing)  
-- **Data de entrega:** 21/08/2025
+- **Data de entrega:** 25/08/2025
 
 #### ✅ Atividade 02 - Fundamentos de HTML e CSS
 - **Link:** [`Atividade 02 - Fundamentos de HTML e CSS`](https://drive.google.com/file/d/1w_0TzVhg1incfqEfzQDeyzE7mDBMt9Y8/view?usp=sharing)  
