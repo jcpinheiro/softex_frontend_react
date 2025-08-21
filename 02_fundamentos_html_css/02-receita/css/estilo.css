@@ -1,0 +1,120 @@
+
+body{
+    background-color: #F5F0DC; 
+    font-family: Helvetica, Arial, sans-serif;
+    width: 1060px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#titulo {
+    text-align: center;
+    text-shadow: 1px 1px 3px #140905;
+    font-size: 3em;
+}
+
+.menu-navegacao {
+    float: left;
+    width: 280px;
+}
+
+
+.conteudo {
+    float: right;
+    width: 740px;
+}
+
+.foto-instantanea {
+    width: 250px;
+    height: 250px;
+    background-color: #FFF;
+    text-align: center;
+    padding: 18px;
+
+    font-family: cursive;
+    box-shadow: 5px 5px 15px 3px #000000;
+    border: 1px SOLID #333;
+    border-radius: 8px;
+
+}
+
+.foto-instantanea:hover {
+    transform: rotate(-5deg) scale(1.2) ;
+}
+
+.menu-navegacao ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.menu-navegacao li {
+    background-color: #9e6305;
+    margin-bottom: 10px;
+    padding: 10px;
+    padding-left: 15px;
+    border-bottom-right-radius: 50px; 
+    border-top-left-radius: 20px;
+}
+
+.menu-navegacao ul li:hover {
+    background-color: #140d02;
+    transition: 2s;
+}
+
+.menu-navegacao ul a {
+    color: #FFF;
+    text-decoration: none;
+}
+
+.menu-lg {
+    font-size: 1.2em;
+    padding: 8px 20px;
+}
+.subtitulo {
+   background: rgb(2,0,36);
+   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(131,82,3,0.6225840678068102) 56%, rgba(205,127,3,1) 100%);
+    
+    color: #FFF;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 30px;
+    padding: .3em;
+    padding-left: .9em;
+}
+
+/* --- Tabela ---- */
+#tb-nutrientes {
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px SOLID #333;
+    border-radius: 10px;
+
+    width: 80%;
+}
+
+#tb-nutrientes thead {
+    background-color: #835203;
+    color: #FFF;
+    font-weight: 600;
+    font-size: 1.20em;
+}
+
+#tb-nutrientes th,
+#tb-nutrientes td {
+    padding: 8px;
+}
+
+
+#tb-nutrientes tbody tr:nth-child(odd) {
+    background-color: #f7c881; 
+}
+
+#tb-nutrientes tbody tr:nth-child(even) {
+    background-color: #fff; 
+}
+
+#banner {
+    top: 0;
+    right: 0;
+    position: fixed;
+	 transform: translate(25px, 50px) rotate(45deg);
+}

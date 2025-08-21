@@ -31,6 +31,10 @@ Vídeo gerado na aula de 07-08-2025 que mostra a criação do projeto com Git e 
 Vídeo gerado na aula de 14-08-2025 que mostra a criação de uma página de currículo com HTML e CSS. (Vídeo original sem edição)
 - **Link:** [Fundamentos de HTML e CSS](https://drive.google.com/file/d/1cIFODC3veGF2PlPilYKWZkfacBHM97k_/view?usp=sharing)
 
+Vídeo gerado na aula de 18-08-2025 que mostra o uso do comando git pull para atualizar o repositório local com as alterações que estão no repositório remoto.
+- **Link:** [Projeto com Git/GitHub](https://drive.google.com/file/d/1ifGnvInPbw9BLQNPBcZ7YikT36xcU4BO/view?usp=sharing)
+
+
 Um arquivo PDF com vários problemas de lógica de programação, cada um com diferentes maneiras de resolver.  
 É um ótimo material para quem está começando a aprender lógica de programação com JavaScript e quer entender como pensar e resolver desafios de forma prática.
 
