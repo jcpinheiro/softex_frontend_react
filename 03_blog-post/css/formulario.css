@@ -1,0 +1,68 @@
+fieldset {
+	background-color: #EEE;
+	border: none;
+	padding: 0.6rem;
+	padding-bottom: 1.5rem;
+}
+
+
+
+fieldset ~fieldset {
+	margin-top: 2rem;
+}
+
+ 
+legend {
+	background-color: #CCC;
+	font-size: 1.3rem;
+	padding: 0.2rem;
+}
+
+
+label[for] {
+	display: block;
+}
+
+input[type='text'],
+input[type='email'],
+textarea {
+	display: block;
+	width: 95%;
+	font-family: inherit;
+	font-size: 1rem;
+	padding: 0.3em;
+	border-radius: .2em;
+}
+
+
+.btn {
+	padding: 0.6em;
+	padding-left: 1em;
+
+	margin-top: 0.5rem;
+	width: 49%;
+
+	border-radius: 0.5em;
+	color: #EEE;
+	font-weight: 600;
+	font-size: 1rem;
+	border: none;
+
+}
+
+.btn-principal {
+	background-color: #3B8686;
+}
+
+.btn-principal:hover {
+	background-color: #043b3b;
+	color: #FFF;
+	transition: 3s background;
+
+
+}
+
+
+.btn-secundario {
+	background-color: #94aaaa;
+}

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+
+	<title>Meu primeiro Post</title>
+	<link rel="stylesheet" href="css/estrutura.css">
+	<link rel="stylesheet" href="css/tipografia.css">
+	<link rel="stylesheet" href="css/blog.css">
+	<link rel="stylesheet" href="css/formulario.css">
+	<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville" rel="stylesheet">
+</head>
+
+<body>
+	<main class="container">
+		<section class="blog-post">
+			<h1 class="titulo-post">Blog do Fulano da Silva</h1>
+			<p class="data-post">08 de Maio de 2017</p>
+
+			<h2 class="titulo-peso-2">Formulário de Contato</h2>
+
+			<p>Fomulário Aqui !!!</p>
+
+			<form>
+				<fieldset>
+					<legend>Dados Pessoais</legend>
+					<label for="nome">Nome</label>
+					<input type="text" id="nome" name="nome" 
+					       placeholder="Nome Completo" autofocus required>
+
+					<label for="email">Email</label>
+					<input type="email" id="email" name="email" required>
+				</fieldset>
+
+				<fieldset>
+					<legend>Como deseja ser contactado</legend>
+					<label> 
+					    <input type="radio" name="contato"> WhatsApp
+				    </label>
+					
+
+					<label>
+						<input type="radio" name="contato"> Email
+					</label>
+
+					<label>
+						<input type="radio" name="contato"> SMS
+					</label>
+				</fieldset>
+
+				<fieldset>
+					<legend>Mensagem</legend>
+					<label for="msg">Digite a sua Mensagem</label>
+					<textarea mensagem" id="msg" placeholder="Mensagem aqui ..."></textarea>
+				</fieldset>
+
+
+				<button type="submit" class="btn btn-principal">Registrar Mensagem</button>
+				<button type="reset" class="btn btn-secundario">Limpar Formulário</button>
+
+			</form>
+
+
+		</section>
+
+		<aside class="outros-posts">
+			<div class="outro-post"><a href="#">Javascritp- cidadão de primeira classe</a></div>
+			<div class="outro-post"><a href="#">NodeJS - Framework do momento</a></div>
+			<div class="outro-post"><a href="#">O melhor post de todos</a></div>
+		</aside>
+
+		<footer class="clearfix">
+
+			<figure class="foto-autor">
+				<img src="imagens/autor_blog.jpg" alt="Fotor do autor do Post">
+				<figcaption class="nome-autor">Fulano da Silva &copy;</figcaption>
+			</figure>
+		</footer>
+	</main>
+</body>
+
+</html>
+
+<!-- 
+	 <form>
+		 	 <fieldset>
+		 	 	 <legend>Dados Pessoais</legend> 			 	 
+				 <label for="nome">Nome</label>
+				 <input type="text" id="nome" name="nome" placeholder="Digite o seu nome" autofocus>
+				 
+				 <label for="email">E-mail</label>
+				 <input type="email" id="email" name="email" placeholder="Digite um email valido">
+			
+				</fieldset> 
+			
+				<fieldset>
+					<legend>Mensagem</legend>
+				 
+				 <label>
+				   <input type="radio" name="assunto" value="html">HTML/CSS
+				 </label>
+
+				 <label>
+				   <input type="radio" name="assunto" value="javascript"> JavaScript
+				 </label>
+				 
+				 <label>
+				   <input type="radio" name="assunto" value="outros"> Outros
+				 </label>
+				 
+				 
+				 <label for="msg">Mensagem:</label>
+						 <textarea name="mensagem" id="msg" cols="30" rows="8" placeholder="Sua mensagem aqui !!"></textarea>
+				 
+				 <button type="submit" class="btn btn-principal">Enviar Mensagem</button>
+				 <button type="reset" class="btn btn-secundario">Limpar Formulário</button>
+			 	</fieldset>
+			 	
+			 </form>
+ -->

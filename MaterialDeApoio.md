@@ -32,3 +32,9 @@ Este espaço reúne **links para materiais e vídeos de apoio** destinados à fo
 - [ ] **RoadMap:** [Git & GitHub](https://roadmap.sh/git-github)
 - [ ] **RoadMap:** [JavaScript](https://roadmap.sh/javascript)
 
+### Materia CSS Flexbox
+
+- https://yoksel.github.io/flex-cheatsheet/#section-declaring 
+- https://desenvolvimentoparaweb.com/css/flexbox/
+- [Layout "Santo Graal](https://codepen.io/tarciozemel/pen/RQzGEB)
+- [Flexbox Froggy](https://flexboxfroggy.com/)

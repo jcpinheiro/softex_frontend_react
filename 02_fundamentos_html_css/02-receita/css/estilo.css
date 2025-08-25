@@ -56,9 +56,10 @@ body{
     border-top-left-radius: 20px;
 }
 
-.menu-navegacao ul li:hover {
-    background-color: #140d02;
-    transition: 2s;
+.menu-navegacao li:hover {
+    background-color: #301f04;
+    transition: 1s; 
+    font-size: 1.1em;
 }
 
 .menu-navegacao ul a {
