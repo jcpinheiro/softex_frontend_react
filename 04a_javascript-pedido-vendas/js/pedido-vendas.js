@@ -7,61 +7,64 @@ const tbody = document.querySelector('#tbodyItemPedido')
 
 document
   .querySelector('#btnCadastro')
-  .addEventListener('click', function(event) {
-       event.preventDefault()
-      
-       let campos = [inputNome.value, inputQuant.value, inputValor.value]
-       
- /*      for(let i=0; i < campos.length; i++)
-          console.log(campos[i] )  */
+  .addEventListener('click', function (event) {
+    event.preventDefault()
 
-       /*  <tr>
-            <td></td>
-            <td></td>
-        </tr>  */
-
-        let linha = document.createElement('tr')
-      
-        campos.forEach(function(campo ) {
-            let celula = document.createElement('td')
-            celula.textContent = campo
-            celula.classList = 'text-center'
-            linha.appendChild(celula)
-        })
-
-        let subTotal = campos[1] * campos[2]
-       
-        let celulaSubTotal = document.createElement('td')
-        celulaSubTotal.textContent = subTotal
-        celulaSubTotal.classList = 'text-center subtotal-js'
-        linha.appendChild(celulaSubTotal ) 
-
-        tbody.appendChild(linha )
+    let campos = [inputNome.value, inputQuant.value, inputValor.value]
 
 
-        calculaTotal( document.querySelectorAll('.subtotal-js') )
+    let linha = document.createElement('tr')
 
-        limpaFormulario()
-       
+    campos.forEach(function (campo) {
+      let celula = document.createElement('td')
+      celula.textContent = campo
+      celula.classList = 'text-center'
+      linha.appendChild(celula)
+    })
+
+    let subTotal = campos[1] * campos[2]
+
+    let celulaSubTotal = document.createElement('td')
+    celulaSubTotal.textContent = subTotal
+    celulaSubTotal.classList = 'text-center subtotal-js'
+    linha.appendChild(celulaSubTotal)
+
+    tbody.appendChild(linha)
+
+
+    calculaTotal(document.querySelectorAll('.subtotal-js'))
+
+    limpaFormulario()
+
   })
 
-  function calculaTotal(vetSubTotal ) {
-    let total = 0
-    vetSubTotal.forEach( function(subtotal) {
-         total = total + parseFloat(subtotal.textContent)
+function calculaTotal(vetSubTotal ) {
+  console.log(vetSubTotal )
 
-    })
-    console.log('Total ' + total )
-  }
+  let total = 
+         vetSubTotal
+          .map(subTotal => parseFloat(subTotal.textContent))
+          .reduce( (somatorio, subtotal) =>  somatorio += subtotal )
+ 
+/* 
+  total = vetSubTotal.forEach(function (subtotal) {
+    total = total + parseFloat(subtotal.textContent)
+
+  }) */
+  console.log('Total ' + total)
+  document
+    .querySelector('.total-js')
+    .textContent = total
+}
 
 
-  function limpaFormulario() {
-    inputNome.value = ''
-    inputQuant.value = ''
-    inputValor.value = ''
+function limpaFormulario() {
+  inputNome.value = ''
+  inputQuant.value = ''
+  inputValor.value = ''
 
-    inputNome.focus()
-  }t
+  inputNome.focus()
+}
 
 
 

@@ -20,3 +20,7 @@
 
 ---
 ### 📘 Módulo 02
+
+#### ✅ Atividade 05 - Manipulação do DOM com JavaScript
+- **Link:** [`Atividade 05 - Integração de JavaScript HTML e CSS`](https://drive.google.com/file/d/1xHhOcHcqBM15qm_XOoiIG9U5WIBqsb2x/view?usp=sharing)  
+- **Data de entrega:** 09/10/2025
