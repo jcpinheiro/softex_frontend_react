@@ -53,7 +53,7 @@ function calculaTotal(vetSubTotal ) {
   }) */
   console.log('Total ' + total)
   document
-    .querySelector('.total-js')
+    .querySelector('.js-total')
     .textContent = total
 }
 

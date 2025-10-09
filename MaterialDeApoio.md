@@ -46,4 +46,19 @@ Este espaço reúne **links para materiais e vídeos de apoio** destinados à fo
 
 ✏ **Tutorial Bootstrap W3Schools** https://www.w3schools.com/bootstrap5/ 
 
+
+### Material Experiência do Usuário
+
+✏ **Slides - Tipografia** https://docs.google.com/presentation/d/1X8uyLuMXhF9KivIpBAIk1vqPHkWReJV3/edit?usp=sharing&ouid=104529232201882852604&rtpof=true&sd=true
+✏ **Apostila - Tipografia na Web** https://drive.google.com/file/d/1umLmOc9GTphLw5GF_2pbP_r4x8TzlSOg/view?usp=sharing
 ✏ **Slides - Experiência do Usuário** https://drive.google.com/drive/folders/1UV_dFRJvDHMq-5oTVj9g7oevyRrCaFCF?usp=sharing 
+
+
+### Material Programação Orientada a objetos
+
+✏ **Tutorial Programação orientada a objetos: princípios e boas práticas** 
+https://www.rocketseat.com.br/blog/artigos/post/programacao-orientada-a-objetos-principios-e-boas-praticas
+
+✏ **Tutorial TypeScript: Programação Orientada a Objetos (POO)** https://medium.com/@habbema/typescript-programa%C3%A7%C3%A3o-orientada-a-objetos-poo-c19e4cec08c3
+
+✏ **Tutorial  Aprenda programação orientada a objetos em TypeScript** https://www.freecodecamp.org/news/learn-object-oriented-programming-in-typescript/

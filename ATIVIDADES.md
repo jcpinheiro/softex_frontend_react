@@ -24,3 +24,7 @@
 #### ✅ Atividade 05 - Manipulação do DOM com JavaScript
 - **Link:** [`Atividade 05 - Integração de JavaScript HTML e CSS`](https://drive.google.com/file/d/1xHhOcHcqBM15qm_XOoiIG9U5WIBqsb2x/view?usp=sharing)  
 - **Data de entrega:** 09/10/2025
+
+#### ✅ Atividade 06 - Conceitos de UX aplicados a um Front-end de um sistema web de venda e aluguel de livros
+- **Link:** [`Atividade 06 - Conceitos de UX aplicados a um Front-end`]()  
+- **Data de entrega:** 30/10/2025

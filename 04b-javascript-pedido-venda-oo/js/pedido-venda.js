@@ -16,7 +16,7 @@ form.addEventListener('submit', function (event) {
    
     let erros = validaFormulario(item );
 
-    if (erros.length == 0 ) { //naoExisteErro
+    if (erros.length == 0 ) { // naoExisteErro
        
         pedido.adiciona(item );
 
@@ -54,11 +54,8 @@ function validaFormulario(item) {
      if (item.quantidade < 1 ) {
         msgErros.push('Informe uma quantidade >= 1');
     }
-
-
-     return msgErros;
+    return msgErros;
 }
-
 
 function adicionaTD(valor) {
     let td = document.createElement('td');
