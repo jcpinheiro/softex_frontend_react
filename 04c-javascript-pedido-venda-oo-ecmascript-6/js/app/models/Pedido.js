@@ -9,8 +9,8 @@ class Pedido {
     }
 
     getItens() {
-       //return this._itens;
-       return [].concat(this._itens );
+       return this._itens;
+       //return [].concat(this._itens );
 
     }
 }

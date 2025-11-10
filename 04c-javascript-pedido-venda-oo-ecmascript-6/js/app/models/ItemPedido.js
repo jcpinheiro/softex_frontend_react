@@ -1,6 +1,5 @@
 class ItemPedido {
-
-
+    
     constructor(nome, quantidade, valor) {
         
         this._nome = nome;
