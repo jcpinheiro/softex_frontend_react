@@ -78,3 +78,10 @@ https://softdesign.com.br/blog/manifesto-agil-20-anos-do-inicio-dessa-historia/#
 
 ✏ **SCRUM - Apostilas e tutorias** 
 https://drive.google.com/drive/folders/1wofhLEO8iaZwiw8ZF1uZINlamHPGp8d2?usp=sharing
+
+
+### Material REACT com TypeScript]
+>
+🎥 **Vídeo:** [aula01_react - novo projeto com vite.mp4 ](https://drive.google.com/file/d/15OEpX17Aez_7Lnfkumv9xB5DaOO3gA14/view?usp=sharing)  
+🎥**Vídeo:** [aula 02_react - trabalhando com componentes.mp4 ](https://drive.google.com/file/d/1fcunRRIl2Z2zp9dNc_oKCgJZb2CbKTie/view?usp=sharing)  
+
