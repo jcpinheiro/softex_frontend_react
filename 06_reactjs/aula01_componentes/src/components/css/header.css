@@ -1,0 +1,20 @@
+.header{
+    width: 100%;
+    height: 120px;
+    background-color: #0c3c6d   ;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+
+.title{
+    color: #f7f8f9;
+    text-align: center;
+    padding-top: 10px;
+    font-family: Arial, sans-serif;
+}
+
+hr{
+    border: 1px solid #f7f8f9;
+    margin-top: 10px;
+}

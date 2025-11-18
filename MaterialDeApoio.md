@@ -83,5 +83,8 @@ https://drive.google.com/drive/folders/1wofhLEO8iaZwiw8ZF1uZINlamHPGp8d2?usp=sha
 ### Material REACT com TypeScript]
 >
 🎥 **Vídeo:** [aula01_react - novo projeto com vite.mp4 ](https://drive.google.com/file/d/15OEpX17Aez_7Lnfkumv9xB5DaOO3gA14/view?usp=sharing)  
-🎥**Vídeo:** [aula 02_react - trabalhando com componentes.mp4 ](https://drive.google.com/file/d/1fcunRRIl2Z2zp9dNc_oKCgJZb2CbKTie/view?usp=sharing)  
+🎥 **Vídeo:** [aula 02_react - trabalhando com componentes.mp4 ](https://drive.google.com/file/d/1fcunRRIl2Z2zp9dNc_oKCgJZb2CbKTie/view?usp=sharing)  
+🎥 **Vídeo:** [aula03_react - organizacao dos componentes.mp4 ](https://drive.google.com/file/d/18Q0hGyiGjoH2_Wb8g-E-ts_aUq8ks5g9/view?usp=sharing)  
+🎥 **Vídeo:** [aula_04_react - integraçao com bootstrap.mp4 ](https://drive.google.com/file/d/1JfLh1FlidRJ2ve_33sGbbFW_rwAhluhQ/view?usp=sharing)  
+🎥 **Vídeo:** [aula_05_react - integraçao com bootstrap.mp4 ]()  
 
