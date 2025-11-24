@@ -7,7 +7,8 @@ export function Home() {
       <p>Essa é a nossa primeira páigna sobre navegação</p>
       <Link to="/sobre">Ir para a página Sobre</Link>
       <br />
-      <Link to="/contato">Contatos</Link>
+      <Link to="/contato">Contatos!!</Link> <br />
+      <a href="/contato">Página de contato</a>
     </div>
   )
 }

@@ -22,9 +22,6 @@ export function Header({title="Sistema de Treinandos"}: HeaderProps) {
             <Nav.Link href="#">Link</Nav.Link>
          
 
-            <Nav.Link disabled aria-disabled="true">
-              Disabled
-            </Nav.Link>
           </Nav>
 
           <Form className="d-flex">
