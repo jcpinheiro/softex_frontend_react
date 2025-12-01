@@ -15,8 +15,8 @@ interface InfoProps{
 }
 
 export default function App() {
-  const [gasolinaInput, setGasolinaInput] = useState(0)
-  const [alcoolInput, setAlcooInput] = useState(0)
+  const [gasolinaInput, setGasolinaInput] = useState()
+  const [alcoolInput, setAlcooInput] = useState()
   const [info, setInfo] = useState<InfoProps>()
 
   function calcular(event: FormEvent){
@@ -67,7 +67,7 @@ export default function App() {
           <input
             className="input"
             type="number"
-            placeholder="4,90"
+            placeholder="3,90"
             min="1"
             step="0.01"
             required
@@ -79,7 +79,7 @@ export default function App() {
           <input
             className="input"
             type="number"
-            placeholder="4,90"
+            placeholder="5,90"
             min="1"
             step="0.01"
             required
