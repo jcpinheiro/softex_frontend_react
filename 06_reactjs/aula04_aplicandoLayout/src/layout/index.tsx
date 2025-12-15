@@ -6,6 +6,7 @@ export function Layout() {
     <>
         <Header />      
         <Outlet />
+              
         <br />
         <hr />
         <footer> &copy Todos os direitos reservados</footer>

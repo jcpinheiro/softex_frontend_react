@@ -10,13 +10,14 @@ import logoImg from './assets/logo.png'
 
 interface InfoProps{
   title: string;
-  gasolina: string | number;
   alcool: string | number;
+  gasolina: string | number;
 }
 
+// compoente principal
 export default function App() {
-  const [gasolinaInput, setGasolinaInput] = useState()
   const [alcoolInput, setAlcooInput] = useState()
+  const [gasolinaInput, setGasolinaInput] = useState()
   const [info, setInfo] = useState<InfoProps>()
 
   function calcular(event: FormEvent){
