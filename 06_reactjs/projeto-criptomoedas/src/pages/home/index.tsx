@@ -38,7 +38,7 @@ export function Home() {
 
   async function getData(){
     
-    fetch(`https://rest.coincap.io/v3/assets?limit=5&offset=${offset}&apiKey=7c0e3c455b1780b96d299bdee1f890adcc2523846166be8eb0c747f8d3589f3a`)
+    fetch(`https://rest.coincap.io/v3/assets?limit=3&offset=${offset}&apiKey=7c0e3c455b1780b96d299bdee1f890adcc2523846166be8eb0c747f8d3589f3a`)
     .then(response => response.json())
     .then((data: DataProp) => {
       const coinsData = data.data;
@@ -77,18 +77,19 @@ export function Home() {
   function handleSubmit(e: FormEvent){
     e.preventDefault();
 
-    if(input === "") return;
+    if(input.trim() === "") 
+       return;
 
     navigate(`/detail/${input}`)
   }
 
   function handleGetMore(){
     if(offset === 0){
-      setOffset(10)
+      setOffset(3)
       return;
     }
 
-    setOffset(offset + 10)
+    setOffset(offset + 3)
   }
 
   return (

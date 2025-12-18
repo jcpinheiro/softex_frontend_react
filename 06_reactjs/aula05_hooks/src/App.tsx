@@ -1,10 +1,13 @@
 // 1.  ***** Exemplo de uso do useState ******
 
-/* import { useState } from "react";
+/* import { useEffect, useState } from "react";
 
 function App() {
-  const [contador, setContador] = useState<number>(0);
+  const [contador, setContador] = useState<number>(10);
 
+  useEffect(() => {
+     console.log("Executou");
+  }, []);
   return (
     <div>
       <h2>Contador</h2>
@@ -13,9 +16,13 @@ function App() {
       <button onClick={() => setContador(contador + 1)}>
         Incrementar
       </button>
+      
+      <button onClick={() => setContador(contador - 1)}>
+        Diminuir
+      </button>
     </div>
   );
-}  */
+}   */
 
 /* 2.  Exemplo de uso do useEffect ******/
 
@@ -26,7 +33,7 @@ function App() {
 
 useEffect(() => {
   console.log("Executou");
-}, [] );
+}, [nome] );
  
   return (
     <div>
@@ -50,7 +57,7 @@ useEffect(() => {
 import { useEffect, useState } from "react";
 
 function App() {
-  const [contador, setContador] = useState<number>(0);
+  const [contador, setContador] = useState<number>(10);
 
   useEffect(() => {
       console.log( `Valor mudou para: ${contador}` )

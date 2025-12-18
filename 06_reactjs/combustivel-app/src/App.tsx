@@ -16,8 +16,8 @@ interface InfoProps{
 
 // compoente principal
 export default function App() {
-  const [alcoolInput, setAlcooInput] = useState()
-  const [gasolinaInput, setGasolinaInput] = useState()
+  const [alcoolInput, setAlcooInput] = useState<Number | String>()
+  const [gasolinaInput, setGasolinaInput] = useState<Number | String>()
   const [info, setInfo] = useState<InfoProps>()
 
   function calcular(event: FormEvent){
