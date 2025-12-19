@@ -12,8 +12,7 @@ export function Cart(){
       {cart.length === 0 && (
         <div className="flex flex-col items-center justify-center">
           <p className="font-medium">Ops seu carrinho está vazio...</p>
-          <Link 
-            to="/"
+          <Link to="/"
             className="bg-slate-600 my-3 p-1 px-3 text-white font-medium rounded"
           >
             Acessar produtos

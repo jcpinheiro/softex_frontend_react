@@ -90,3 +90,5 @@ https://drive.google.com/drive/folders/1wofhLEO8iaZwiw8ZF1uZINlamHPGp8d2?usp=sha
 ---
 🎥 **Vídeo:** [Gravaçao da aula de 24-11-2025 ](https://drive.google.com/file/d/1jKhivs0jVicyyrglydJpXnile1Z_fAdh/view)  
 
+🎥 **Vídeo:** [Gravaçao da aula de 18-12-2025 ](
+https://drive.google.com/file/d/1KvEo7g7_jZqWcsHUPAzee9FgWGutj5ty/view?usp=sharing)
